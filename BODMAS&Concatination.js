@@ -23,8 +23,8 @@ console.log(cal) //18
   console.log(6+6+"32"+2-8); //12314
   console.log(5/8+4-"8"+3*4-2); //6.625
   //______________________Prompt
-  var name = +prompt("entre youre name")
-  console.log(name+20)
+//   var name = +prompt("entre youre name")
+//   console.log(name+20)
   // prompt user ka data leta hai
   // prompt se phele plus llagayain gai take concatination na hoo!
-  
+
