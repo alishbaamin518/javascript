@@ -32,7 +32,7 @@ console.log(5 <= 5)
 console.log("alishba" !=="alishba")
 console.log(1 !=="1")
 //_______________Multiple conditions
-var num = +prompt("entre your age")
+// var num = +prompt("entre your age")
 if (num >= 18) {
     console.log("you allow to watch movies")
 } else if (num >= 10) {
